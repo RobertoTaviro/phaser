@@ -1,0 +1,5 @@
+en el terminal hacer cd (ruta del phaser) 
+dir
+node node-express.js
+
+te vas al navegador y 127.0.0.1:(puerto que te diga) y ya esta
